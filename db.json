@@ -1,8 +1,11 @@
 {
-  "user_types": ["admin", "user", "support"],
-  "extra_text_inputs": {
-    "admin": [{"label": "Responsibilities", "value": "responsibilities"}],
-    "user": null,
-    "support": [{"label": "Support Phone", "value": "support_phone"}]
-  }
+  "user_create": {
+    "user_types": ["admin", "user", "support"],
+    "extra_text_inputs": {
+      "admin": [{"label": "Responsibilities", "value": "responsibilities"}],
+      "user": null,
+      "support": [{"label": "Support Phone", "value": "support_phone"}]
+    }
+  },
+  "update_user": {}
 }
