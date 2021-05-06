@@ -4,4 +4,5 @@
     "admin": [{"label": "Responsibilities", "value": "responsibilities"}],
     "user": null,
     "support": [{"label": "Support Phone", "value": "support_phone"}]
+  }
 }
